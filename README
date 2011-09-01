@@ -1,0 +1,13 @@
+ExtraSpacey - XML Feed and API Wrapper for Extra Space Self Storage data
+==================
+
+An ActiveRecord plugin that keeps listings updated with the Extra Space XML Feed.
+
+
+Example
+=======
+
+
+
+
+Copyright (c) 2011 Diego Salazar, released under the MIT license
